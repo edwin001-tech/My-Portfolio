@@ -101,7 +101,7 @@ class NavBar extends Component {
   };
 
   handleCloseDrawer = () => {
-    this.props.onDrawerChange(false);
+    this.props.onDrawerChange(true);
   };
 
   handleClick = event => {
@@ -143,7 +143,7 @@ class NavBar extends Component {
   render() {
     const { classes, open_drawer, anchorEl } = this.props;
     const open = Boolean(anchorEl);
-    const iOS = process.browser && /iPad|iPhone|iPod/.test(navigator.userAgent);
+    const Android = process.browser && /iPad|iPhone|iPod|Android/.test(navigator.userAgent);
 
     return (
       <Fragment>
@@ -256,8 +256,8 @@ class NavBar extends Component {
             open={open_drawer}
             onOpen={this.handleOpenDrawer}
             onClose={this.handleCloseDrawer}
-            disableBackdropTransition={!iOS}
-            disableDiscovery={iOS}
+            disableBackdropTransition={!Android}
+            disableDiscovery={Android}
           >
             <div
               tabIndex={0}

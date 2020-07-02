@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.ae94b9d7.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.ae94b9d7.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.d4e3fe5e.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.d4e3fe5e.js.map",
+    "static/css/2.49c70412.chunk.css": "/My-Portfolio/static/css/2.49c70412.chunk.css",
+    "static/js/2.73f367a4.chunk.js": "/My-Portfolio/static/js/2.73f367a4.chunk.js",
+    "static/js/2.73f367a4.chunk.js.map": "/My-Portfolio/static/js/2.73f367a4.chunk.js.map",
+    "index.html": "/My-Portfolio/index.html",
+    "precache-manifest.311ce311cd973fb53684c4f0e7e0f15a.js": "/My-Portfolio/precache-manifest.311ce311cd973fb53684c4f0e7e0f15a.js",
+    "service-worker.js": "/My-Portfolio/service-worker.js",
+    "static/css/2.49c70412.chunk.css.map": "/My-Portfolio/static/css/2.49c70412.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/My-Portfolio/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.73f367a4.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.73f367a4.chunk.js.LICENSE.txt",
+    "static/media/FelipaRegular.ttf": "/My-Portfolio/static/media/FelipaRegular.7edbe5ff.ttf",
+    "static/media/index.css": "/My-Portfolio/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4e3fe5e.js",
+    "static/css/2.49c70412.chunk.css",
+    "static/js/2.73f367a4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ae94b9d7.chunk.js"
+  ]
+}
